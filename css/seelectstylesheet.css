@@ -1,0 +1,22 @@
+/* main > :nth-child(3) {
+  background-color: bisque;
+} */
+
+/* main > :nth-child(3n){
+  background-color: pink;
+} */
+
+/* main > :nth-child(odd){
+  background-color:skyblue;
+}
+
+main > :nth-child(even){
+  background-color:antiquewhite;
+} */
+main > :first-child{
+  background-color:skyblue;
+}
+
+main > :last-child{
+  background-color:antiquewhite;
+}

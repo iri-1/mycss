@@ -1,0 +1,16 @@
+h1 {
+  background-color: bisque;
+  line-height: 3em;
+}
+p {
+  /* font-size: 12px; */
+  line-height: 5;
+  /* background-color: inherit; */
+  background-color: hsl(180, 50%, 40%);
+  opacity:1.0;
+}
+img {
+  line-height: 5;
+  vertical-align: middle;
+  opacity: 0.5;
+}

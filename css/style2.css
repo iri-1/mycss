@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+}
+.p2 {
+  color: red;
+}
+p {
+  color: blue;
+}
+ul {
+  /* list-style-type: lower-alpha; */
+  list-style-type: none;
+
+}
+ol {
+  /* list-style-position: inside;
+  list-style-image: url(../img/icon.png); */
+  list-style: circle inside url(../img/icon.png);
+}
